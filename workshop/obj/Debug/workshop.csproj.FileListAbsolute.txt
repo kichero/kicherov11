@@ -1,0 +1,14 @@
+E:\ПРАКТИКА\workshop\workshop\bin\Debug\workshop.exe.config
+E:\ПРАКТИКА\workshop\workshop\bin\Debug\workshop.exe
+E:\ПРАКТИКА\workshop\workshop\bin\Debug\workshop.pdb
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.csproj.AssemblyReference.cache
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.Form1.resources
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.Properties.Resources.resources
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.csproj.GenerateResource.cache
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.exe
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.pdb
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.Administrator.resources
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.newOrder.resources
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.NewWorker.resources
+E:\ПРАКТИКА\workshop\workshop\obj\Debug\workshop.masterVIew.resources
